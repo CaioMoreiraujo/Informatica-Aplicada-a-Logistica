@@ -9,6 +9,7 @@ Qual o Estado com maior número de empresas catalogadas
 
 ## Pergunta 2
 Qual o(s) país(es) com menor número de empresas catalogadas?
+
 <img width="369" height="363" alt="image" src="https://github.com/user-attachments/assets/a7ae6102-7e49-4225-953c-32a7dc8631c0" />
 
 ## Pergunta 3 
