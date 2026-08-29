@@ -14,4 +14,5 @@ Qual o(s) país(es) com menor número de empresas catalogadas?
 
 ## Pergunta 3 
 Quantas empresas cumprem e não cumprem a Adesão ao Decreto nº 1563/95
+
 <img width="372" height="256" alt="image" src="https://github.com/user-attachments/assets/4f9e4796-9652-4946-ad8b-8b700fe77ce9" />
