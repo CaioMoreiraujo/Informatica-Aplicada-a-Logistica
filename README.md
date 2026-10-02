@@ -17,5 +17,5 @@ Atividade continuada da sala de aula, criar mais 2 perguntas referentes aos dado
 <img width="1316" height="736" alt="image" src="https://github.com/user-attachments/assets/9d7ad664-2949-4f7e-a211-dd1ec4eefbb1" />
 
 ## PowerBI Dados Abertos - [Atividade 5](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/tree/main/Atividades/Atividade%205)
-Baseado em acessar os dados abertos governamentais feito na [Atividade 3](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/edit/main/README.md#excel-dados-abertos---atividade-3) e transformar as perguntas em gráficos do Power BI.
+Baseado em acessar os dados abertos governamentais feito na [Atividade 3](#excel-dados-abertos---atividade-3) e transformar as perguntas em gráficos do Power BI.
 <img width="1313" height="690" alt="image" src="https://github.com/user-attachments/assets/70e84083-5e7c-4620-b702-f4cc44535742" />
