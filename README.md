@@ -19,3 +19,10 @@ Atividade continuada da sala de aula, criar mais 2 perguntas referentes aos dado
 ## PowerBI Dados Abertos - [Atividade 5](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/tree/main/Atividades/Atividade%205)
 Baseado em acessar os dados abertos governamentais feito na [Atividade 3](#excel-dados-abertos---atividade-3) e transformar as perguntas em gráficos do Power BI.
 <img width="1313" height="690" alt="image" src="https://github.com/user-attachments/assets/70e84083-5e7c-4620-b702-f4cc44535742" />
+
+## PowerBI Com Figuras - [Atividade 6]()
+
+
+## Regressão Linear, uso de IA e visualizações - [Atividade 7](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/tree/main/Atividades/Atividade%207)
+Atividade baseada em criar uma tabela manualmente através da função inserir gráfico no Excel e comparar com a tabela feita por IA com um prompt do Google Colab.
+<img width="2373" height="917" alt="Sem título" src="https://github.com/user-attachments/assets/1cda6b7a-83e8-43ea-a54c-6e8bd252e872" />
