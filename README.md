@@ -26,3 +26,7 @@ Baseado em acessar os dados abertos governamentais feito na [Atividade 3](#excel
 ## Regressão Linear, uso de IA e visualizações - [Atividade 7](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/tree/main/Atividades/Atividade%207)
 Atividade baseada em criar uma tabela manualmente através da função inserir gráfico no Excel e comparar com a tabela feita por IA com um prompt do Google Colab.
 <img width="2373" height="917" alt="Sem título" src="https://github.com/user-attachments/assets/1cda6b7a-83e8-43ea-a54c-6e8bd252e872" />
+
+## Gráfico de Dispersão com Regressão Linear - [Questão 2 Prova](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/blob/main/Prova/Grafico%20Questao%202%20Prova.ipynb)
+<img width="873" height="583" alt="image" src="https://github.com/user-attachments/assets/de43e22f-984a-4f2d-88c2-d83c9c6a59d8" />
+
