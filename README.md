@@ -30,3 +30,7 @@ Atividade baseada em criar uma tabela manualmente através da função inserir g
 ## Gráfico de Dispersão com Regressão Linear - [Questão 2 Prova](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/blob/main/Prova/Grafico%20Questao%202%20Prova.ipynb)
 <img width="873" height="583" alt="image" src="https://github.com/user-attachments/assets/de43e22f-984a-4f2d-88c2-d83c9c6a59d8" />
 
+## Dashboard PowerBI - [Questão 4 Prova](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/tree/main/Prova/Questao%204)
+<img width="1445" height="808" alt="image" src="https://github.com/user-attachments/assets/4988281f-c0bc-4da8-bf09-0647aee56342" />
+
+
