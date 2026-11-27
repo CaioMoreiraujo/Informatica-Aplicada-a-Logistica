@@ -22,6 +22,8 @@ Baseado em acessar os dados abertos governamentais feito na [Atividade 3](#excel
 
 
 ## PowerBI Com Figuras - [Atividade 6]()
+Atividade ensinando a colocar imagens em uma tabela no powerBI
+<img width="1309" height="733" alt="image" src="https://github.com/user-attachments/assets/afd22f7a-a370-45e1-ba9a-09801b77dc47" />
 
 
 ## Dashboard Life Expectancy & Regressão Linear, uso de IA e visualizações - [Atividade 7](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/tree/main/Atividades/Atividade%207)
