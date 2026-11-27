@@ -25,11 +25,20 @@ Baseado em acessar os dados abertos governamentais feito na [Atividade 3](#excel
 
 
 ## Dashboard Life Expectancy & Regressão Linear, uso de IA e visualizações - [Atividade 7](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/tree/main/Atividades/Atividade%207)
-Atividade baseada em criar uma tabela manualmente através da função inserir gráfico no Excel e comparar com a tabela feita por IA com um prompt do Google Colab.
+Atividade baseada em criar uma tabela manualmente através da função inserir gráfico no Excel e comparar com a tabela feita por IA com um prompt do Google Colab. Sobre estudo e horas.
+Google Colab // Excel
 <img width="2373" height="917" alt="Sem título" src="https://github.com/user-attachments/assets/1cda6b7a-83e8-43ea-a54c-6e8bd252e872" />
 
-Dashboard sobre a expectativa de vida
+Dashboard sobre a expectativa de vida.
 <img width="1305" height="733" alt="image" src="https://github.com/user-attachments/assets/6a4a2d7d-d283-4adb-bde1-c887e37b2979" />
+
+## Regressão Linear Ice Cream Sales - [Atividade 8]()
+Tabela relacionando venda de sorvetes com a temperatura.
+Google Colab
+<img width="1142" height="623" alt="image" src="https://github.com/user-attachments/assets/4d854e88-d734-483b-afb6-0aa2dd797611" />
+
+Excel
+<img width="731" height="486" alt="image" src="https://github.com/user-attachments/assets/6f79b6f5-5c7b-4ba2-a952-7f8d0a8e8319" />
 
 
 # Prova
