@@ -21,7 +21,7 @@ Baseado em acessar os dados abertos governamentais feito na [Atividade 3](#excel
 <img width="1313" height="690" alt="image" src="https://github.com/user-attachments/assets/70e84083-5e7c-4620-b702-f4cc44535742" />
 
 
-## PowerBI Com Figuras - [Atividade 6]()
+## PowerBI Com Figuras - [Atividade 6](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/tree/main/Atividades/Atividade%206)
 Atividade ensinando a colocar imagens em uma tabela no powerBI
 <img width="1309" height="733" alt="image" src="https://github.com/user-attachments/assets/afd22f7a-a370-45e1-ba9a-09801b77dc47" />
 
@@ -34,7 +34,7 @@ Google Colab // Excel
 Dashboard sobre a expectativa de vida.
 <img width="1305" height="733" alt="image" src="https://github.com/user-attachments/assets/6a4a2d7d-d283-4adb-bde1-c887e37b2979" />
 
-## Regressão Linear Ice Cream Sales - [Atividade 8]()
+## Regressão Linear Ice Cream Sales - [Atividade 8](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/tree/main/Atividades/Atividade%208)
 Tabela relacionando venda de sorvetes com a temperatura.
 
 Google Colab
