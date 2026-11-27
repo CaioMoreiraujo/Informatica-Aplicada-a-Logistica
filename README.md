@@ -34,10 +34,13 @@ Dashboard sobre a expectativa de vida.
 
 ## Regressão Linear Ice Cream Sales - [Atividade 8]()
 Tabela relacionando venda de sorvetes com a temperatura.
+
 Google Colab
+
 <img width="1142" height="623" alt="image" src="https://github.com/user-attachments/assets/4d854e88-d734-483b-afb6-0aa2dd797611" />
 
 Excel
+
 <img width="731" height="486" alt="image" src="https://github.com/user-attachments/assets/6f79b6f5-5c7b-4ba2-a952-7f8d0a8e8319" />
 
 
