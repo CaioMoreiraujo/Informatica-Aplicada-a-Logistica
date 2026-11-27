@@ -1,4 +1,4 @@
-# Informática Aplicada à Logística
+# Informática Aplicada à Logística - Atividades
 Repositório destinado aos trabalhos de Informática Aplicada à Logística.
 ## Apresentação Pessoal em equipe - [Atividade 1](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/blob/main/Atividades/Atividade%201)
 Feito uma apresentação em grupo sobre assuntos pessoais.
@@ -20,6 +20,7 @@ Atividade continuada da sala de aula, criar mais 2 perguntas referentes aos dado
 Baseado em acessar os dados abertos governamentais feito na [Atividade 3](#excel-dados-abertos---atividade-3) e transformar as perguntas em gráficos do Power BI.
 <img width="1313" height="690" alt="image" src="https://github.com/user-attachments/assets/70e84083-5e7c-4620-b702-f4cc44535742" />
 
+
 ## PowerBI Com Figuras - [Atividade 6]()
 
 
@@ -27,6 +28,7 @@ Baseado em acessar os dados abertos governamentais feito na [Atividade 3](#excel
 Atividade baseada em criar uma tabela manualmente através da função inserir gráfico no Excel e comparar com a tabela feita por IA com um prompt do Google Colab.
 <img width="2373" height="917" alt="Sem título" src="https://github.com/user-attachments/assets/1cda6b7a-83e8-43ea-a54c-6e8bd252e872" />
 
+# Prova
 ## Gráfico de Dispersão com Regressão Linear - [Questão 2 Prova](https://github.com/CaioMoreiraujo/Informatica-Aplicada-a-Logistica/blob/main/Prova/Grafico%20Questao%202%20Prova.ipynb)
 <img width="873" height="583" alt="image" src="https://github.com/user-attachments/assets/de43e22f-984a-4f2d-88c2-d83c9c6a59d8" />
 
